@@ -1,0 +1,18 @@
+{
+    "name": "mhavid/kzcrypt",
+    "description": "encrypt decrypt for php javascript",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mhavid\\Kzcrypt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mhavid",
+            "email": "havidkonoha@gmail.com"
+        }
+    ],
+    "require": {}
+}
